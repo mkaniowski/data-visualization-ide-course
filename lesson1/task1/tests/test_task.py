@@ -1,7 +1,9 @@
 import unittest
 from io import StringIO
 from unittest.mock import patch
+
 import pandas as pd
+
 from lesson1.task1.task import load_data, df_head, df_describe, df_info, check_missing_values, select_platforms
 
 

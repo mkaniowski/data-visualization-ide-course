@@ -1,7 +1,7 @@
 import unittest
 
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 from lesson1.task3.task import get_platform_genre_counts, plot_games_per_genre_grouped_by_platform
 
