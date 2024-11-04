@@ -27,6 +27,8 @@ inside this project.
 ### Getting Basic Information from DataFrame
 
 Once the data is loaded into a DataFrame, you can use several methods to get basic information about the data.
+Understanding your data is crucial as it helps you identify any necessary preprocessing steps, detect anomalies, and
+decide on the appropriate analysis techniques.
 
 1. **head():** The `head()` method returns the first few rows of the DataFrame. By default, it returns the first 5 rows,
    but you can specify the number of rows to return.
